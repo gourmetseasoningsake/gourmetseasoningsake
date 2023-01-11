@@ -2,7 +2,7 @@
 Ahoi.
 <br>
 <br>
-<p>I can cobble a line or two with these things</p>
+<p>I can cobble a line or two with these things.</p>
 <br>
 <p>
   <img alt="HTML" src="https://img.shields.io/badge/-HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=c9d1d9" />
