@@ -19,26 +19,3 @@ I can cobble a line or two with these things.
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-0d1117?style=for-the-badge&logo=Node.js&logoColor=c9d1d9" />
 </p>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
