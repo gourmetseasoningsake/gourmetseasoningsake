@@ -1,1 +1,0 @@
-image::https://static.shtill.com/images/midjourney/gens/github-header.jpg[]
