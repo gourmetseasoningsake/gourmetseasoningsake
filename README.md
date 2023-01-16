@@ -1,6 +1,7 @@
 <br>
 Ahoi.
 <br>
+<!--
 <br>
 <p>I can cobble a line or two with these things.</p>
 <br>
@@ -19,3 +20,4 @@ Ahoi.
   <img alt="Bun" src="https://img.shields.io/badge/-Bun-0d1117?style=for-the-badge&logo=Bun&logoColor=c9d1d9" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-0d1117?style=for-the-badge&logo=Node.js&logoColor=c9d1d9" />
 </p>
+-->
