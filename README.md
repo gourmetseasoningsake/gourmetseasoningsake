@@ -1,7 +1,7 @@
 <br>
 Ahoi.
 <br><br>
-<- Fun fact
+
 <!--
 <br>
 <p>I can cobble a line or two with these things.</p>
